@@ -3,6 +3,7 @@ A simple and elegant weather application built using HTML, CSS, and JavaScript, 
 
 
 📸 Screenshot
+https://github.com/SangitaKumbhar129/Weather_app/blob/main/WhatsApp%20Image%202025-07-18%20at%205.22.35%20PM.jpeg
 <!-- Replace with actual screenshot filename -->
 
 🚀 Features
